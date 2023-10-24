@@ -1,0 +1,8 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+body {
+  background-color: rgba(255, 255, 255, 0.9); /* Ganti tingkat transparansi sesuai kebutuhan Anda (0.0 - 1.0) */
+}
